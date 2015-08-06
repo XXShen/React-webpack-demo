@@ -1,0 +1,35 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "learn webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamjoel/webpack-learn.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Joel",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/iamjoel/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/iamjoel/webpack-learn",
+  "devDependencies": {
+    "css-loader": "^0.15.1",
+    "exports-loader": "^0.6.2",
+    "file-loader": "^0.8.4",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "jsx-loader": "^0.12.2",
+    "react-hot-loader": "^1.1.1",
+    "imports-loader": "^0.6.4"
+  },
+  "dependencies": {
+    "react": "^0.12.0"
+  }
+}
